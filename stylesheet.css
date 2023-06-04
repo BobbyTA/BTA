@@ -1,16 +1,18 @@
 footer{
     font-family: "staylight";
     font-size: x-large;
-
+    display: ;
 }
 body{
     background: #080808;
     color: #fff;
+    border: ;
 }
 
 html {
     color: white;
     background-color: blueviolet;
+    margin: ;
 }
 *{
     margin: 0;
